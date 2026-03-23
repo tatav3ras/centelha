@@ -106,7 +106,7 @@ centelha/
 1. **Clone o repositorio:**
 
    ```bash
-   git clone https://github.com/usuario/centelha.git
+   git clone https://github.com/tatav3ras/centelha.git
    cd centelha
    ```
 
